@@ -1,1 +1,5 @@
-1. An empirical study of question discussions on Stack Overflow (https://link.springer.com/article/10.1007/s10664-022-10180-z)
+An empirical study of question discussions on Stack Overflow (https://link.springer.com/article/10.1007/s10664-022-10180-z)
+Usage and attribution of Stack Overflow code snippets in GitHub projects (https://link.springer.com/article/10.1007/s10664-018-9650-5)
+Gender differences in participation and reward on Stack Overflow (https://link.springer.com/article/10.1007/s10664-019-09685-x)
+An empirical study of IoT topics in IoT developer discussions on Stack Overflow (https://link.springer.com/article/10.1007/s10664-021-10021-5)
+Bounties on technical Q&A sites: a case study of Stack Overflow bounties (https://link.springer.com/article/10.1007/s10664-019-09744-3)
